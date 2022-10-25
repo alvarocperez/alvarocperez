@@ -30,7 +30,7 @@ Docker             38 mins         ▓░░░░░░░░░░░░░░
 
 ### Coding languages in the last 7 days
 
-<img src="https://wakatime.com/share/@alvarocperez/fc1cfcd9-4c6f-41e9-9c18-f86f6df42a11.svg?sanitize=true" width="600">
+<img src="https://wakatime.com/share/@QuantumA/fc1cfcd9-4c6f-41e9-9c18-f86f6df42a11.svg?sanitize=true" width="600">
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarocperez&show_icons=true&theme=algolia&count_private=true)
