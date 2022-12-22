@@ -18,12 +18,12 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-Python             23 hrs 40 mins  █████████████████▓░░░░░░░   70.53 %
-Jupyter Notebook   3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-SQL                2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-YAML               1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Bash               1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Docker             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python             22 hrs 25 mins  ██████████████████▒░░░░░░   73.21 %
+Jupyter Notebook   3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+SQL                2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Bash               1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Text               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
