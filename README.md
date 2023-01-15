@@ -18,11 +18,10 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-YAML             5 hrs 11 mins   ██████████████████████▓░░   90.21 %
-JSON             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Markdown         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+YAML             1 hr 4 mins     ████████████████████████░   96.50 %
+textmate         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
