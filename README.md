@@ -18,7 +18,10 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML        59 mins         █████████████████████▓░░░   87.14 %
+Terraform   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Markdown    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
