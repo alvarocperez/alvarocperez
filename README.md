@@ -18,12 +18,12 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-Terraform          1 hr 25 mins    █████████▓░░░░░░░░░░░░░░░   38.90 %
-Jupyter Notebook   1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-YAML               59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-GitIgnore file     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Markdown           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Jupyter Notebook   4 hrs 4 mins    ███████████████▒░░░░░░░░░   61.44 %
+Terraform          1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+YAML               59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+GitIgnore file     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
