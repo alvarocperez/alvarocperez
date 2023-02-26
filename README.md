@@ -18,7 +18,12 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python             37 mins         ████████████████░░░░░░░░░   64.00 %
+TOML               6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+AUTO_DETECTED      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Text               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+YAML               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+GitIgnore file     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
