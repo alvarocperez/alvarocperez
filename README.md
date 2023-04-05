@@ -18,8 +18,7 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter Notebook   0 secs          ███████████████████░░░░░░   75.47 %
-Python             0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
