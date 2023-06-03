@@ -17,7 +17,7 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
